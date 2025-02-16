@@ -21,7 +21,7 @@
 
 ➥ [NONOGRAMS](https://tanya-gro.github.io/Projects-stage1/nonograms/)
 
-➥ [CHRISTMAS SHOP]()
+➥ [CHRISTMAS SHOP](https://tanya-gro.github.io/Projects-stage1/christmas-shop/)
 
 ### 🌟 My Projects(stage 0):
 
