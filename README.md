@@ -1,7 +1,7 @@
 ## 💻 My contacts:
 1. Telegram: @tanya_gro
 2. Discord: tanya_gro
-3. [E-mail(tarpel.gta@gmail.com)]:(mailto:tarpel.gta@gmail.com)
+3. [![E-mail](tarpel.gta@gmail.com)](mailto:tarpel.gta@gmail.com)
 
 ## 🌟 I’m currently learning:
 
@@ -13,7 +13,7 @@
 
 ## 🌟 My Codewars:
 
-[![Tanya-Gro Codewars]("https://github.r2v.ch/codewars?user=rsschool_83b296f228e071cb&theme=gradient_light")]("https://github.r2v.ch/codewars?user=stardustmeg&theme=gradient_light")
+[![Tanya-Gro Codewars]("https://github.r2v.ch/codewars?user=rsschool_83b296f228e071cb&theme=gradient_light")]("https://github.r2v.ch/codewars?user=rsschool_83b296f228e071cb&theme=gradient_light")
 
 ## 🌟 My Projects(stage 1):
 
