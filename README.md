@@ -1,17 +1,17 @@
 ## 💻 My contacts:
 1. Telegram: @tanya_gro
 2. Discord: tanya_gro
-3. [![E-mail](tarpel.gta@gmail.com)](mailto:tarpel.gta@gmail.com)
+3. ![E-mail](tarpel.gta@gmail.com)(mailto:tarpel.gta@gmail.com)
 
-## 🌟 I’m currently learning:
+## 💪 I’m currently learning:
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanya-gro&layout=compact)
 
-## 🌟 My Stats:
+## :octocat: My Stats:
 
 [![Tanya-Gro GitHub stats](https://github-readme-stats.vercel.app/api?username=tanya-gro&rank_icon=github)](https://github.com/zagorky/github-readme-stats)
 
-## 🌟 My Codewars:
+## 🏆 My Codewars:
 
 [![Tanya-Gro Codewars]("https://github.r2v.ch/codewars?user=rsschool_83b296f228e071cb&theme=gradient_light")]("https://github.r2v.ch/codewars?user=rsschool_83b296f228e071cb&theme=gradient_light")
 
